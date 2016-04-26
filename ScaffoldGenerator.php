@@ -1,5 +1,8 @@
 <?php
 
+/**
+ * test
+ */
 namespace Pingpong\Generators;
 
 use Illuminate\Console\Command;
